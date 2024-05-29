@@ -1,7 +1,0 @@
-https://gitlab.com/bigdataort/raw_files/-/raw/main/spark/futbol_dataset/teamstats.csv
-https://gitlab.com/bigdataort/raw_files/-/raw/main/spark/futbol_dataset/teams.csv
-https://gitlab.com/bigdataort/raw_files/-/raw/main/spark/futbol_dataset/shots.csv
-https://gitlab.com/bigdataort/raw_files/-/raw/main/spark/futbol_dataset/players.csv
-https://gitlab.com/bigdataort/raw_files/-/raw/main/spark/futbol_dataset/appearances.csv
-https://gitlab.com/bigdataort/raw_files/-/raw/main/spark/futbol_dataset/games.csv
-https://gitlab.com/bigdataort/raw_files/-/raw/main/spark/futbol_dataset/leagues.csv
